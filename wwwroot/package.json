@@ -1,0 +1,16 @@
+{
+  "name": "azure-letsencrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TimerTriggerJS1/index.js",
+  "scripts": {},
+  "author": "Petr Kolář <kolarcz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "azure-arm-website": "^3.0.0-preview",
+    "greenlock": "^2.2.5",
+    "le-challenge-azure-storage": "^1.0.0",
+    "le-store-certbot": "^2.0.5",
+    "ms-rest-azure": "^2.5.5"
+  }
+}
