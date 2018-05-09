@@ -9,7 +9,7 @@
     - `WEBSITE_NODE_DEFAULT_VERSION` = `8.10.0`
     - `OPENSSL_PATH` = `D:\Program Files (x86)\Git\usr\bin\openssl.exe`
     - `TEST` = `false`
-  - Connection strings:
+  - Connection strings (with type Custom):
     - `CLIENT_ID` = *[How to get client id & secret »](https://www.jan-v.nl/post/setting-up-an-azure-active-directory-application-to-retrieve-let%E2%80%99s-encrypt-certificates)*
     - `CLIENT_SECRET` = *[How to get client id & secret »](https://www.jan-v.nl/post/setting-up-an-azure-active-directory-application-to-retrieve-let%E2%80%99s-encrypt-certificates)*
     - `SUBSCRIPTION_ID` = *Azure AD > Subscriptions > Subscription ID*
