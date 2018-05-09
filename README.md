@@ -15,8 +15,8 @@
     - `SUBSCRIPTION_ID` = *Azure AD > Subscriptions > Subscription ID*
     - `TENANT` = *Azure AD > Azure Active Directory > Properties > Directory ID*
     - `PFX_PASSWORD` = *Random password*
-    - `AZURE_STORAGE_CONNECTION_STRING` = *Connection string to any storage for LE challenges*
-    - `AZURE_STORAGE_CONTAINER` = *Container name in storage for LE challenges*
+    - `AZURE_STORAGE_CONNECTION_STRING` = *Connection string to any storage for Let's Encrypt challenges*
+    - `AZURE_STORAGE_CONTAINER` = *Container name in storage for Let's Encrypt challenges*
 - in *Azure Function App* create function from template: *Timer trigger / Javascript (named: TimerTriggerJS1)*
 - copy [wwwroot](/wwwroot/) to *Azure Function App wwwroot*
 - run `npm install` in *wwwroot*
